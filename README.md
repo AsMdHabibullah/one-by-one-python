@@ -1,4 +1,4 @@
-# You want to be a python programmer?
+# Do you want to be a python programmer?
 ## OK, You must need to know one by one all of the things.
 
 ### Start with basic Python Programming
