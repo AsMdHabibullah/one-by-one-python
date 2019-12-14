@@ -24,7 +24,7 @@
         * and **
         	* = multiple arguments pass
         	** = multiple arguments with key and value pass
-    Q. List Comprihension
+    Q. List Comprehension
     R. Unpacking
     S. File
     T. Exception
