@@ -10,8 +10,8 @@
         Single line # and multiline """ """
     D. Variable and Data types
     E. User Input
-    F. Numaric Operation
-    G. Type custing
+    F. Numeric Operation
+    G. Type casting
     H. Operator
     I. Statement
     J. Loop
